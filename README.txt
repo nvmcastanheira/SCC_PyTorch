@@ -1,1 +1,1 @@
-Interactive cloud binder for Python workshop.
+Interactive cloud binder for PyTorch workshop.
